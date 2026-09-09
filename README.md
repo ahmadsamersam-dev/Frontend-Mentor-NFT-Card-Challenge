@@ -20,7 +20,7 @@ I am really proud of how clean and straightforward my approach was for this comp
 * **Efficient Inline Styling:** I utilized `<span>` tags to keep text elements inline and aligned naturally (like the "Creation of Jules Wyvern" section), rather than overcomplicating the layout by unnecessarily forcing `display: flex` on every small text group. 
 
 ### Challenges & Feedback
-To be honest, I found this challenge to be very straightforward and highly enjoyable. I didn't encounter any major roadblocks or difficulties, and translating the design into code was a smooth and fun experience. 
+Overall, I found this challenge to be very straightforward and a fun experience. Translating the design into code went smoothly without any major roadblocks. The only minor challenge I encountered was a CSS cascading issue where normalize.css overrode my custom font sizes. I realized it was due to the file linking order in my HTML, and I quickly overcame this by simply placing normalize.css before my main style.css file.
 
 However, I am always looking to improve! If anyone reviewing my code spots any bad practices, CSS improvements, or areas where I can optimize further, please feel free to critique my work. I highly welcome constructive feedback.
 
