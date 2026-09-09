@@ -20,11 +20,13 @@
   box-sizing: border-box;
   font-family: "Outfit", sans-serif;
 }
+body{
+  background-color: var(--main-BG);
+}
 .main{
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: var(--main-BG);
   min-height: 100vh;
 }
 .card{
